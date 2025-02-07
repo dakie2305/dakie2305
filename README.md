@@ -1,5 +1,5 @@
 # Hello, I'm Thanh Duc! 👋
-
+![](https://komarev.com/ghpvc/?username=dakie2305)
 ## 📚 About Me
 I'm a 23 years old, an graduated IT major student with a passionate for coding and programming. I mainly code functions, programs or tools for my personal use, I am extremely familiar with **C#, python, JAVA**. I do know other coding languages and frameworks like Flutter, C++, HTML + CSS + Bootstrap, etc. (Please do keep in mind I am not exactly good at them)
 My academic journey is not just about earning a degree, it's about immersing myself in the world of programming, and I want to make lives easier and much more automated :) The less we do, the better.
@@ -16,5 +16,3 @@ Thank you for visiting my GitHub profile. Don't hesiate to connect and contact m
 ![](https://github-readme-stats.vercel.app/api?username=dakie2305&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dakie2305&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dakie2305&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-[![](https://visitcount.itsvg.in/api?id=dakie2305&icon=0&color=0)](https://visitcount.itsvg.in)
