@@ -11,7 +11,7 @@ My academic journey is not just about earning a degree, it's about immersing mys
 
 ---
 
-Thank you for visiting my GitHub profile. Don't hesiate to connect and contact me! We can talk about the latest technology or just simply make friends, I am fine with anything!
+Thank you for visiting my GitHub profile. Don't hesiate to connect and contact me! We can talk about the latest technology or just simply make friends, I am fine with anything! Don't forget to check out my [profile page here](https://dakie2305.github.io/). too!
 
 ![](https://github-readme-stats.vercel.app/api?username=dakie2305&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dakie2305&theme=gotham&hide_border=false)<br/>
